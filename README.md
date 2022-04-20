@@ -1,2 +1,3 @@
 # general_template_new
-General template for any project
+
+General template used for CNN Classifier project
