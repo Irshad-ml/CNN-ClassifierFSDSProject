@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#when we download and project from the Github and we do any changes in the VsCode or Pycharm then for that we have to create 
+#environment and that environment folder contains lots of files which we create and then when we commits then 1000 of changes 
+#are ready to upload into the git so to avoid that we add the env/ in .gitignore file
+
+evn/
