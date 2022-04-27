@@ -133,3 +133,8 @@ dmypy.json
 #are ready to upload into the git so to avoid that we add the env/ in .gitignore file
 
 evn/
+
+#data/data.zip contains huge data and we dont want to upload into the git so we mention this data directory here so that it wont
+#upload at the git
+
+data.zip
