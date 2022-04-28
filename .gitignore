@@ -138,3 +138,22 @@ evn/
 #upload at the git
 
 data.zip
+
+
+#Ignore all the jpg images to upload at the git
+*.jpg
+
+#Dont want to upload the bad files aavailable in the bad_data folfer
+bad_data
+
+#Dont want to upload any .docx file
+*.docx
+
+#Dont want to upload at the git any thing from logs file 
+logs/
+
+#Dont want to load txt file
+*.txt
+
+
+.vscode/
